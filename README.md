@@ -59,6 +59,3 @@ detector.detect_video('path/to/your/video.mp4', 'output.mp4')
 
 The model was trained on a custom dataset of 5,000+ annotated images of vehicles with license plates.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
